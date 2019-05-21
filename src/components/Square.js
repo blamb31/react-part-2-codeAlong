@@ -24,6 +24,8 @@ export default class Square extends Component {
             return
         }
     }
+
+    
     
 
     render() {

@@ -23,6 +23,8 @@ export default class PaintCanvas extends Component {
         
     } 
 
+    
+
     draw() {
         let squares = []
         for (let i = 0; i < 5016; i++) {
